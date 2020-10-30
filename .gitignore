@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But descend into directories
+!*/
+
+# You can be specific with these rules
+!/admin/controller/extension/total/tax.php
+!.gitignore
