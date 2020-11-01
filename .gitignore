@@ -6,5 +6,5 @@
 
 # You can be specific with these rules
 #choose file to push
-!rajaongkir
+!
 !.gitignore
